@@ -1,0 +1,20 @@
+DRC Rules Export File for PCB: C:\Users\Holdhus\Downloads\thingy91---hardware-files-1_6_0\Thingy91 - Hardware files 1_6_0\PCA20035-Thingy91 Board 1_6_0\Altium Designer files\400390.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=µVia_Clearance|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Keepout clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit_AGND/GND|Scope=Board|Allowed=1
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=Width_Diff|Scope=Board|Minimum=6.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=0.15mm_Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=P23_Clearance|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=CSP_Clearance|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=SB_Clearance|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Polygon_Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=ANT_Clerance|Scope=Board|Minimum=8.10
+RuleKind=Clearance|RuleName=USB_Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=NPTH clearance|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=USB_Poly_Clearance|Scope=Board|Minimum=10.00

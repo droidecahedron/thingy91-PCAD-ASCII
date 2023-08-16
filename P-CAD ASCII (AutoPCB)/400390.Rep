@@ -1,0 +1,708 @@
+Export log for : 400390.Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle EF10X10MID1
+AddingPadStyle EF14X14MID1
+AddingPadStyle EF12X12MID1
+AddingPadStyle EF9X26TOP1
+AddingPadStyle EF59X59TOP1
+AddingPadStyle EF12X11TOP1
+AddingPadStyle EF31X30TOP1
+AddingPadStyle EF20X39TOP1
+AddingPadStyle EF8X8TOP1
+AddingPadStyle EF39X39TOP1
+AddingPadStyle EF10X10TOP1
+AddingPadStyle EF20X23TOP1
+AddingPadStyle EF30X31TOP1
+AddingPadStyle P:EX118Y118D1181
+AddingPadStyle EF39X39BOT1
+AddingPadStyle EF39X39TOP2
+AddingPadStyle EF20X24TOP1
+AddingPadStyle EF42X62TOP1
+AddingPadStyle EF24X86TOP1
+AddingPadStyle EF108X55TOP1
+AddingPadStyle EF108X55TOP2
+AddingPadStyle EF39X24TOP1
+AddingPadStyle EF10X26TOP1
+AddingPadStyle EF59X30TOP1
+AddingPadStyle EF22X24TOP1
+AddingPadStyle EF30X80TOP1
+AddingPadStyle P:EX40Y40D401
+AddingPadStyle EF16X53TOP1
+AddingPadStyle EF63X55TOP1
+AddingPadStyle EF61X75TOP1
+AddingPadStyle P:EX63Y35D201
+AddingPadStyle EF79X59MID1
+AddingPadStyle EF39X63TOP1
+AddingPadStyle P:EX35Y35D351
+AddingPadStyle EF17X22TOP1
+AddingPadStyle EF36X28TOP1
+AddingPadStyle EF26X33TOP1
+AddingPadStyle P:SX55Y55D351
+AddingPadStyle P:EX55Y55D351
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle EF12X31TOP1
+AddingPadStyle EF24X102TOP1
+AddingPadStyle EF71X39TOP1
+AddingPadStyle EF8X8TOP2
+AddingPadStyle EF12X24TOP1
+AddingPadStyle EF18X114TOP1
+AddingPadStyle EF18X75TOP1
+AddingPadStyle EF30X28TOP1
+AddingPadStyle EF55X20TOP1
+AddingPadStyle EF18X94TOP1
+AddingPadStyle EF35X28TOP1
+AddingPadStyle EF24X24TOP1
+AddingPadStyle EF47X26TOP1
+AddingPadStyle EF21X21TOP1
+AddingPadStyle EF12X21TOP1
+AddingPadStyle EF31X31TOP1
+AddingPadStyle EF12X12TOP1
+AddingPadStyle EF12X36TOP1
+AddingPadStyle EF16X16TOP1
+AddingPadStyle EF24X61TOP1
+AddingPadStyle EF47X71TOP1
+AddingPadStyle EF118X118TOP1
+AddingPadStyle EF79X118TOP1
+AddingPadStyle EF10X9TOP1
+AddingPadStyle EF33X33MID1
+AddingPadStyle EF10X9MID1
+AddingPadStyle EF10X21TOP1
+AddingPadStyle EF28X28TOP1
+AddingPadStyle EF10X14TOP1
+AddingPadStyle EF20X26TOP1
+AddingPadStyle EF5X5MID1
+AddingPadStyle EF5X5TOP1
+AddingPadStyle EF8X10TOP1
+AddingPadStyle EF37X33TOP1
+AddingPadStyle EF36X48TOP1
+AddingPadStyle EF30X40TOP1
+AddingPadStyle EF87X87TOP1
+AddingPadStyle EF47X39TOP1
+AddingPadStyle P:EX33Y33D331
+AddingPadStyle EF10X16TOP1
+AddingPadStyle EF16X28TOP1
+AddingPadStyle EF26X28TOP1
+AddingPadStyle EF22X57TOP1
+AddingPadStyle EF22X57TOP2
+AddingPadStyle EF12X20TOP1
+AddingPadStyle EF12X19TOP1
+AddingPadStyle EF20X43TOP1
+AddingPadStyle EF59X28TOP1
+AddingPadStyle EF59X14TOP1
+AddingPadStyle EF39X41TOP1
+AddingPadStyle EF41X87TOP1
+AddingPadStyle EF10X10TOP2
+AddingPadStyle EF55X43TOP1
+AddingPadStyle EF9X9TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX24Y24D121
+Adding ViaStyle V:EX14Y14D61
+Adding ViaStyle V:EX14Y14D61_Blind
+Adding ViaStyle V:EX14Y14D62_Blind
+Adding ViaStyle V:EX12Y12D41_Blind
+Adding ViaStyle V:EX10Y10D41_Blind
+Adding ViaStyle V:EX12Y12D42_Blind
+Adding ViaStyle V:EX10Y10D42_Blind
+Adding TextStyle (Default)
+Adding TextStyle T:H27W6
+Adding TextStyle T:H20W5
+Adding TextStyle T:H60W10
+Adding TextStyle T:H20W51
+Adding TextStyle T:H24W6
+Adding TextStyle T:H40W6
+Adding TextStyle T:H53W80
+Adding TextStyle T:H70W80
+Adding TextStyle T:H20W52
+Adding TextStyle T:H80W6
+Adding TextStyle T:H40W8
+Adding TextStyle T:H95W8
+Adding TextStyle T:H50W6
+Adding TextStyle T:H70W7
+Adding TextStyle T:H59W80
+Adding TextStyle T:H54W7
+Adding TextStyle T:H80W80
+Adding TextStyle T:H22W5
+Adding TextStyle T:H35W10
+Adding TextStyle T:H12W2
+Adding TextStyle T:H15W3
+Adding TextStyle T:H12W21
+Adding TextStyle T:H12W22
+Adding TextStyle T:H39W8
+Adding PatternDef XQFN40P180X260X50-16N_1
+Adding PatternDef TP_SMD_Ø1.5mm_1
+Adding PatternDef RESC0603X03L_C_1
+Adding PatternDef CAPC0603X03L_C_1
+Adding PatternDef TP_SMD_Ø1.5mm_2
+Adding PatternDef TP_SMD_Ø1.5mm_3
+Adding PatternDef TP_SMD_Ø1.5mm_4
+Adding PatternDef TP_SMD_Ø1.5mm_5
+Adding PatternDef TP_SMD_Ø1.5mm_6
+Adding PatternDef CAPC1608X06L_1
+Adding PatternDef XTAL_1610_1
+Adding PatternDef BGA94C35P10X10_352X356X50_1
+Adding PatternDef CAPC0603X03L_C_2
+Adding PatternDef CAPC0603X03L_C_3
+Adding PatternDef CAPC0603X03L_C_4
+Adding PatternDef CAPC1608X06L_2
+Adding PatternDef CAPC0603X03L_C_5
+Adding PatternDef CAPC0603X03L_C_6
+Adding PatternDef CAPC0603X03L_C_7
+Adding PatternDef CAPC1608X06L_3
+Adding PatternDef INDC0603X03L_C_1
+Adding PatternDef INDC0603X03L_C_2
+Adding PatternDef TP_SMD_Ø1.0mm_1
+Adding PatternDef CM1402_1
+Adding PatternDef RESC0603X03L_C_2
+Adding PatternDef CAPC0603X03L_C_8
+Adding PatternDef COAXIAL-SWF_1
+Adding PatternDef HOLE_NP_3MM_1
+Adding PatternDef Fiducial_Round-Square_1
+Adding PatternDef CAPC1608X06L_4
+Adding PatternDef CAPC1005X04L_1
+Adding PatternDef RESC0603X03L_C_3
+Adding PatternDef RESC0603X03L_C_4
+Adding PatternDef MSL0104_1
+Adding PatternDef CAPC0603X03L_C_9
+Adding PatternDef CAPC0603X03L_C_10
+Adding PatternDef Switch-PB-6.2x6.3mm-SMD_1
+Adding PatternDef 2450AT18D0100_STD-R_1
+Adding PatternDef WSON50P210X210X60_HS-9N_1
+Adding PatternDef RESC1005X04L_1
+Adding PatternDef HDR_2x5-SMD-1.27mm-ANG_1
+Adding PatternDef MSL0104_2
+Adding PatternDef CAPC0603X03L_C_11
+Adding PatternDef CAPC0603X03L_C_12
+Adding PatternDef USB-Micro-B-RA-SMD-PiP_1
+Adding PatternDef HOLE_NP_3MM_2
+Adding PatternDef Switch-Slide-RA-J-Lead-DPDT-8.5x3.5mm_1
+Adding PatternDef DFN65P200X200X80_HS-6N_1
+Adding PatternDef LED_RGB_0606_1
+Adding PatternDef Fiducial_Round-Square_2
+Adding PatternDef Fiducial_Round-Square_3
+Adding PatternDef RESC0603X03L_C_5
+Adding PatternDef HDR_2x3_TH_2.00MM-NC_1
+Adding PatternDef RESC0603X03L_C_6
+Adding PatternDef RESC0603X03L_C_7
+Adding PatternDef CAPC1608X06L_5
+Adding PatternDef LIST_1x2-NC_1
+Adding PatternDef RESC0603X03L_C_NC_1
+Adding PatternDef Solderbridge_Shorted_1
+Adding PatternDef TP_SMD_Ø1.5mm_7
+Adding PatternDef TP_SMD_Ø1.5mm_8
+Adding PatternDef TP_SMD_Ø1.5mm_9
+Adding PatternDef TP_SMD_Ø1.5mm_10
+Adding PatternDef TP_SMD_Ø1.5mm_11
+Adding PatternDef TP_SMD_Ø1.5mm_12
+Adding PatternDef FPC_05P-0.5mm-RA-SMD_1
+Adding PatternDef TP_SMD_Ø1.5mm_13
+Adding PatternDef INDC2016X18N_1
+Adding PatternDef BGA32C40P6X6_238X238X56_1
+Adding PatternDef SF72S006VBAR2500_1
+Adding PatternDef LGA50P1600X1050X104-161N_1
+Adding PatternDef CAPC0603X03L_C_13
+Adding PatternDef LGA50P322X300X114-16N_1
+Adding PatternDef BME680_1
+Adding PatternDef CAPC1608X06L_6
+Adding PatternDef SM03B-SRSS-TB_1
+Adding PatternDef Solderbridge_1
+Adding PatternDef FR01-S4-210_DF_1
+Adding PatternDef CAPC0603X03L_C_14
+Adding PatternDef RESC0603X03L_C_8
+Adding PatternDef INDC0603X03L_C_3
+Adding PatternDef INDC0603X03L_C_NC_1
+Adding PatternDef INDC1608X06L_WW_1
+Adding PatternDef UFQFN40P200X200X65_HS-15N_1
+Adding PatternDef UFQFN40P200X200X65_HS-15N_2
+Adding PatternDef DFN1410-6N_1
+Adding PatternDef CAPC0603X03L_C_15
+Adding PatternDef Solderbridge_Shorted_2
+Adding PatternDef TP_SMD_Ø0.7mm_1
+Adding PatternDef SODFL100X40-2N_1
+Adding PatternDef TP_SMD_Ø1.5mm_14
+Adding PatternDef HDR_2x5_TH_2.00MM-NC_1
+Adding PatternDef INDC1005X04L_WW_1
+Adding PatternDef 2 PIN STARPOINT_1
+Adding PatternDef 2 PIN STARPOINT_2
+Adding PatternDef HOLE_NP_3MM_3
+Adding PatternDef SAFFB2G45MA0F0A_1
+Adding PatternDef INDC1608X06L_1
+Adding PatternDef INDC1005X04L_1
+Adding PatternDef BT-XTAL_2016_1
+Adding PatternDef CAPC0603X03L_C_16
+Adding PatternDef CAPC0603X03L_C_17
+Adding PatternDef CAPC0603X03L_C_18
+Adding PatternDef SOD-123-DIODE_1
+Adding PatternDef SOT-23a_1
+Adding PatternDef TP_SMD_Ø1.0mm_2
+Adding PatternDef DFN65P200X200X80_HS-6N_2
+Adding PatternDef 2 PIN STARPOINT_3
+Adding PatternDef 2 PIN STARPOINT_4
+Adding PatternDef 2 PIN STARPOINT_5
+Adding PatternDef RESC1005X04L_2
+Adding PatternDef Solderbridge_2
+Adding PatternDef Solderbridge_3
+Adding PatternDef Solderbridge_Shorted_3
+Adding PatternDef Buzzer_SMD_7.5x7.5_1
+Adding PatternDef TP_SMD_Ø1.0mm_3
+Adding PatternDef TP_SMD_Ø1.0mm_4
+Adding PatternDef TP_SMD_Ø1.0mm_5
+Adding PatternDef AYZ0102AGRLC_1
+Adding PatternDef DFN65P100X40-3L_1
+Adding PatternDef SW_TACTILE_2.6x3.0MM_4-LEAD_1
+Adding PatternDef Solderbridge_4
+Adding PatternDef SOT-23-5_1
+Adding PatternDef PSON50P100X60-6N_1
+Adding PatternDef CAPC0603X03L_C_NC_1
+Adding PatternDef SON127P600X90_HS-8N_1
+Adding PatternDef XQFN40P180X260X50-16N_2
+Adding PatternDef Solderbridge_Shorted_4
+Adding PatternDef INDC1005X04L_WW_2
+Adding PatternDef CAPC0603X03L_C_19
+Adding PatternDef CAPC0603X03L_C_20
+Adding PatternDef CAPC0603X03L_C_21
+Adding PatternDef COAXIAL RF U.FL-R-SMT-1_1
+Adding PatternDef XFDFN40P100X55-6N_1
+Adding PatternDef CAPC0603X03L_C_22
+Adding PatternDef CAPC2012X11L_1
+Adding PatternDef INDC1005X04L_2
+Adding PatternDef CAPC1608X06L_7
+Adding PatternDef CAPC2012X11L_2
+Adding PatternDef BGA4C40P2X2_76X76X62_1
+Adding PatternDef RESC0603X03L_C_NC_2
+Adding CompDef XQFN40P180X260X50-16N_1
+Adding CompDef TP_SMD_Ø1.5mm_1
+Adding CompDef RESC0603X03L_C_1
+Adding CompDef CAPC0603X03L_C_1
+Adding CompDef TP_SMD_Ø1.5mm_2
+Adding CompDef TP_SMD_Ø1.5mm_3
+Adding CompDef TP_SMD_Ø1.5mm_4
+Adding CompDef TP_SMD_Ø1.5mm_5
+Adding CompDef TP_SMD_Ø1.5mm_6
+Adding CompDef CAPC1608X06L_1
+Adding CompDef XTAL_1610_1
+Adding CompDef BGA94C35P10X10_352X356X50_1
+Adding CompDef CAPC0603X03L_C_2
+Adding CompDef CAPC0603X03L_C_3
+Adding CompDef CAPC0603X03L_C_4
+Adding CompDef CAPC1608X06L_2
+Adding CompDef CAPC0603X03L_C_5
+Adding CompDef CAPC0603X03L_C_6
+Adding CompDef CAPC0603X03L_C_7
+Adding CompDef CAPC1608X06L_3
+Adding CompDef INDC0603X03L_C_1
+Adding CompDef INDC0603X03L_C_2
+Adding CompDef TP_SMD_Ø1.0mm_1
+Adding CompDef CM1402_1
+Adding CompDef RESC0603X03L_C_2
+Adding CompDef CAPC0603X03L_C_8
+Adding CompDef COAXIAL-SWF_1
+Adding CompDef HOLE_NP_3MM_1
+Adding CompDef Fiducial_Round-Square_1
+Adding CompDef CAPC1608X06L_4
+Adding CompDef CAPC1005X04L_1
+Adding CompDef RESC0603X03L_C_3
+Adding CompDef RESC0603X03L_C_4
+Adding CompDef MSL0104_1
+Adding CompDef CAPC0603X03L_C_9
+Adding CompDef CAPC0603X03L_C_10
+Adding CompDef Switch-PB-6.2x6.3mm-SMD_1
+Adding CompDef 2450AT18D0100_STD-R_1
+Adding CompDef WSON50P210X210X60_HS-9N_1
+Adding CompDef RESC1005X04L_1
+Adding CompDef HDR_2x5-SMD-1.27mm-ANG_1
+Adding CompDef MSL0104_2
+Adding CompDef CAPC0603X03L_C_11
+Adding CompDef CAPC0603X03L_C_12
+Adding CompDef USB-Micro-B-RA-SMD-PiP_1
+Adding CompDef HOLE_NP_3MM_2
+Adding CompDef Switch-Slide-RA-J-Lead-DPDT-8.5x3.5mm_1
+Adding CompDef DFN65P200X200X80_HS-6N_1
+Adding CompDef LED_RGB_0606_1
+Adding CompDef Fiducial_Round-Square_2
+Adding CompDef Fiducial_Round-Square_3
+Adding CompDef RESC0603X03L_C_5
+Adding CompDef HDR_2x3_TH_2.00MM-NC_1
+Adding CompDef RESC0603X03L_C_6
+Adding CompDef RESC0603X03L_C_7
+Adding CompDef CAPC1608X06L_5
+Adding CompDef LIST_1x2-NC_1
+Adding CompDef RESC0603X03L_C_NC_1
+Adding CompDef Solderbridge_Shorted_1
+Adding CompDef TP_SMD_Ø1.5mm_7
+Adding CompDef TP_SMD_Ø1.5mm_8
+Adding CompDef TP_SMD_Ø1.5mm_9
+Adding CompDef TP_SMD_Ø1.5mm_10
+Adding CompDef TP_SMD_Ø1.5mm_11
+Adding CompDef TP_SMD_Ø1.5mm_12
+Adding CompDef FPC_05P-0.5mm-RA-SMD_1
+Adding CompDef TP_SMD_Ø1.5mm_13
+Adding CompDef INDC2016X18N_1
+Adding CompDef BGA32C40P6X6_238X238X56_1
+Adding CompDef SF72S006VBAR2500_1
+Adding CompDef LGA50P1600X1050X104-161N_1
+Adding CompDef CAPC0603X03L_C_13
+Adding CompDef LGA50P322X300X114-16N_1
+Adding CompDef BME680_1
+Adding CompDef CAPC1608X06L_6
+Adding CompDef SM03B-SRSS-TB_1
+Adding CompDef Solderbridge_1
+Adding CompDef FR01-S4-210_DF_1
+Adding CompDef CAPC0603X03L_C_14
+Adding CompDef RESC0603X03L_C_8
+Adding CompDef INDC0603X03L_C_3
+Adding CompDef INDC0603X03L_C_NC_1
+Adding CompDef INDC1608X06L_WW_1
+Adding CompDef UFQFN40P200X200X65_HS-15N_1
+Adding CompDef UFQFN40P200X200X65_HS-15N_2
+Adding CompDef DFN1410-6N_1
+Adding CompDef CAPC0603X03L_C_15
+Adding CompDef Solderbridge_Shorted_2
+Adding CompDef TP_SMD_Ø0.7mm_1
+Adding CompDef SODFL100X40-2N_1
+Adding CompDef TP_SMD_Ø1.5mm_14
+Adding CompDef HDR_2x5_TH_2.00MM-NC_1
+Adding CompDef INDC1005X04L_WW_1
+Adding CompDef 2 PIN STARPOINT_1
+Adding CompDef 2 PIN STARPOINT_2
+Adding CompDef HOLE_NP_3MM_3
+Adding CompDef SAFFB2G45MA0F0A_1
+Adding CompDef INDC1608X06L_1
+Adding CompDef INDC1005X04L_1
+Adding CompDef BT-XTAL_2016_1
+Adding CompDef CAPC0603X03L_C_16
+Adding CompDef CAPC0603X03L_C_17
+Adding CompDef CAPC0603X03L_C_18
+Adding CompDef SOD-123-DIODE_1
+Adding CompDef SOT-23a_1
+Adding CompDef TP_SMD_Ø1.0mm_2
+Adding CompDef DFN65P200X200X80_HS-6N_2
+Adding CompDef 2 PIN STARPOINT_3
+Adding CompDef 2 PIN STARPOINT_4
+Adding CompDef 2 PIN STARPOINT_5
+Adding CompDef RESC1005X04L_2
+Adding CompDef Solderbridge_2
+Adding CompDef Solderbridge_3
+Adding CompDef Solderbridge_Shorted_3
+Adding CompDef Buzzer_SMD_7.5x7.5_1
+Adding CompDef TP_SMD_Ø1.0mm_3
+Adding CompDef TP_SMD_Ø1.0mm_4
+Adding CompDef TP_SMD_Ø1.0mm_5
+Adding CompDef AYZ0102AGRLC_1
+Adding CompDef DFN65P100X40-3L_1
+Adding CompDef SW_TACTILE_2.6x3.0MM_4-LEAD_1
+Adding CompDef Solderbridge_4
+Adding CompDef SOT-23-5_1
+Adding CompDef PSON50P100X60-6N_1
+Adding CompDef CAPC0603X03L_C_NC_1
+Adding CompDef SON127P600X90_HS-8N_1
+Adding CompDef XQFN40P180X260X50-16N_2
+Adding CompDef Solderbridge_Shorted_4
+Adding CompDef INDC1005X04L_WW_2
+Adding CompDef CAPC0603X03L_C_19
+Adding CompDef CAPC0603X03L_C_20
+Adding CompDef CAPC0603X03L_C_21
+Adding CompDef COAXIAL RF U.FL-R-SMT-1_1
+Adding CompDef XFDFN40P100X55-6N_1
+Adding CompDef CAPC0603X03L_C_22
+Adding CompDef CAPC2012X11L_1
+Adding CompDef INDC1005X04L_2
+Adding CompDef CAPC1608X06L_7
+Adding CompDef CAPC2012X11L_2
+Adding CompDef BGA4C40P2X2_76X76X62_1
+Adding CompDef RESC0603X03L_C_NC_2
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Poly Region Object Found On Layer TopOverlay.
+      Warning: Unexpected Free Arc Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+      Warning: Unexpected ComponentBody Object Found On Layer Mechanical1.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer1.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer MidLayer2.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical7.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical8.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+      Warning: Unexpected Pad Object Found On Layer Mechanical16.
+ 
+EndLog

@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\Holdhus\Downloads\thingy91---hardware-files-1_6_0\Thingy91 - Hardware files 1_6_0\PCA20035-Thingy91 Board 1_6_0\Altium Designer files\400390.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=400390-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=400390-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Mid1_Blind_Vias|DrillFile=400390-roundholes.tx1|DrillLayers=gtl,g1
+LayersSetName=Mid2_Bot_Blind_Vias|DrillFile=400390-roundholes.tx2|DrillLayers=g2,gbl
