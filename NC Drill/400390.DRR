@@ -1,0 +1,42 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 400390.PcbDoc   11.08.2023  13:30:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 400390-RoundHoles.TXT
+ASCII SlotHoles File : 400390-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      6mil (0.15mm)                                             Round             535       PTH        35.98inch (913.90mm)
+T3      12mil (0.305mm)                                           Round             2         PTH        0.03inch (0.85mm)
+T4      20mil (0.5mm)                                             Slot              2         PTH        0.58inch (14.64mm)
+T5      35mil (0.9mm)                                             Round             26        PTH        3.33inch (84.46mm)
+T6      33mil (0.85mm)                                            Round             2         NPTH       0.12inch (3.00mm)
+T7      35mil (0.9mm)                                             Round             2         NPTH       0.27inch (6.80mm)
+T8      40mil (1.02mm)                                            Round             2         NPTH       0.15inch (3.81mm)
+T9      118mil (3mm)                                              Round             3         NPTH       3.14inch (79.73mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              574
+Layer Pair : Top Layer to Mid Layer 1
+ASCII RoundHoles File : 400390-RoundHoles.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             38        PTH        2.72inch (69.03mm)
+T2      6mil (0.15mm)                                             Round             277       PTH        19.92inch (506.09mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              315
+Layer Pair : Mid Layer 2 to Bottom Layer
+ASCII RoundHoles File : 400390-RoundHoles.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             28        PTH        1.67inch (42.40mm)
+T2      6mil (0.15mm)                                             Round             195       PTH        18.61inch (472.80mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              223
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1112
+
+Total Processing Time (hh:mm:ss) : 00:00:01
